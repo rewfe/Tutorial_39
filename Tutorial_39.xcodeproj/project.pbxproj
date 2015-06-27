@@ -14,6 +14,7 @@
 		84497DA71B3E15CC00D56FE3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84497DA61B3E15CC00D56FE3 /* Images.xcassets */; };
 		84497DAA1B3E15CC00D56FE3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84497DA81B3E15CC00D56FE3 /* LaunchScreen.xib */; };
 		84497DB61B3E15CC00D56FE3 /* Tutorial_39Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84497DB51B3E15CC00D56FE3 /* Tutorial_39Tests.m */; };
+		84497DC01B3E19D900D56FE3 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 84497DBF1B3E19D900D56FE3 /* 1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		84497DAF1B3E15CC00D56FE3 /* Tutorial_39Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tutorial_39Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84497DB41B3E15CC00D56FE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84497DB51B3E15CC00D56FE3 /* Tutorial_39Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tutorial_39Tests.m; sourceTree = "<group>"; };
+		84497DBF1B3E19D900D56FE3 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		84497D981B3E15CC00D56FE3 /* Tutorial_39 */ = {
 			isa = PBXGroup;
 			children = (
+				84497DBF1B3E19D900D56FE3 /* 1.jpeg */,
 				84497D9D1B3E15CC00D56FE3 /* AppDelegate.h */,
 				84497D9E1B3E15CC00D56FE3 /* AppDelegate.m */,
 				84497DA01B3E15CC00D56FE3 /* ViewController.h */,
@@ -202,6 +205,7 @@
 				84497DA51B3E15CC00D56FE3 /* Main.storyboard in Resources */,
 				84497DAA1B3E15CC00D56FE3 /* LaunchScreen.xib in Resources */,
 				84497DA71B3E15CC00D56FE3 /* Images.xcassets in Resources */,
+				84497DC01B3E19D900D56FE3 /* 1.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +420,7 @@
 				84497DBB1B3E15CC00D56FE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84497DBC1B3E15CC00D56FE3 /* Build configuration list for PBXNativeTarget "Tutorial_39Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +429,7 @@
 				84497DBE1B3E15CC00D56FE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
